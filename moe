@@ -1,1 +1,6 @@
 print("hello world")
+imoprt matlotlib.pyplot as plt
+x=21
+y=22
+plt.plot(x,y)
+plt.show()
